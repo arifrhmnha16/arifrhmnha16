@@ -91,11 +91,15 @@ Website toko online sederhana dengan fitur produk dan checkout basic.
 
 <div align="center">
 
-![Gallagher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifrhmnha16&show_icons=true&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=arifrhmnha16&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifrhmnha16&layout=compact&theme=radical&hide_border=true)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arifrhmnha16&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifrhmnha16&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=arifrhmnha16&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
