@@ -1,7 +1,5 @@
 <div align="center">
 
-### Fullstack Developer • Student • Creative Builder
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=1000&color=7F3FBF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Arif+Rahman+Hakim;Known+as+Gallagher;I+build+modern+websites+and+useful+apps;Currently+learning+fullstack+web+development" alt="Typing SVG" />
 
 <br/>
