@@ -141,10 +141,6 @@ Deployment              ████████░░░   Vercel, GitHub
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
 </a>
 
-<a href="https://pasuketanwani.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Pasuketan_Wani-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
-</a>
-
 </div>
 
 ---
