@@ -60,15 +60,31 @@ Saat ini aku lagi fokus ngembangin skill di dunia web development, mulai dari **
 
 ---
 
-## 🌱 Future Projects
+## 🚀 Featured Projects
 
-Karena GitHub ini masih baru, project akan segera ditambahkan.  
-Beberapa ide project yang akan aku buat:
+### 🌐 Personal Portfolio Website
 
-### 🍰 Personal Portfolio Website
-Website portfolio pribadi untuk menampilkan profile, skill, dan project.
+Website portfolio pribadi untuk menampilkan profile, skill, pengalaman, dan project yang pernah aku buat.
 
-**Tech:** Next.js, Tailwind CSS
+🔗 **Live Website:** [arifrhmnha.vercel.app](https://arifrhmnha.vercel.app)
+
+**Tech:** Next.js, React, Tailwind CSS
+
+---
+
+### ⚽ Pasuketan Wani Football Club Website
+
+Website untuk klub bola **Pasuketan Wani** yang menampilkan informasi klub, profile, dan konten seputar tim.
+
+🔗 **Live Website:** [pasuketanwani.vercel.app](https://pasuketanwani.vercel.app)
+
+**Tech:** Next.js, React, Tailwind CSS
+
+---
+
+## 🌱 Next Project Ideas
+
+Beberapa project yang akan aku kembangkan selanjutnya:
 
 ### 📚 Student Task Manager
 Aplikasi sederhana untuk mengatur tugas sekolah/kuliah.
@@ -109,7 +125,8 @@ Website toko online sederhana dengan fitur produk dan checkout basic.
 
 - 📸 Instagram: [@rahman.vincete](https://instagram.com/rahman.vincete)
 - 📧 Email: [manzsadesign@gmail.com](mailto:manzsadesign@gmail.com)
-- 🌍 Portfolio: Coming soon...
+- 🌍 Portfolio: [arifrhmnha.vercel.app](https://arifrhmnha.vercel.app)
+- ⚽ Project: [pasuketanwani.vercel.app](https://pasuketanwani.vercel.app)
 
 ---
 
