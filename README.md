@@ -65,7 +65,7 @@ Currently improving my skills in frontend development, backend development, data
         Personal portfolio website to showcase my profile, skills, experiences, and selected projects.
       </p>
       <p align="center">
-        <a href="https://arifrhmnha.vercel.app" target="_blank">
+        <a href="https://arifrhmnha.web.id" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-7F3FBF?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
